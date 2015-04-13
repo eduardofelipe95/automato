@@ -1,0 +1,6 @@
+#ifndef ENTRADAS_H_INCLUDED
+#define ENTRADAS_H_INCLUDED
+/* a funcao recebe uma string contendo todos o estados do automato e retorna o numero de estados*/
+int lerEntrada(char *entrada);
+
+#endif
