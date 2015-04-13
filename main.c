@@ -3,7 +3,7 @@
 #include<string.h>
 #include "entradas.h"
 #define tamanho_max 1000
-
+//teste
 
 
 int main()
