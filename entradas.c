@@ -2,7 +2,7 @@
 #include<stdlib.h>
 #include<string.h>
 
-
+//teste
 #define tamanho_max 1000
 
 int lerEntrada(char *entrada)
